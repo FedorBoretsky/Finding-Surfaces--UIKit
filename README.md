@@ -5,7 +5,7 @@ The Finding Surfaces project from App Development with Swift curriculum Moscow D
 
 ## Functionality
 
-The app detects horizontal surfaces and displays the ship on them 
+The app detects horizontal surfaces and displays the ship on them.
 
 ## Screenshot
 
